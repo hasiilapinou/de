@@ -23,26 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/de/videos/";
           },
-        },{id: "nav-reisen",
-          title: "Reisen",
+        },{id: "nav-blog",
+          title: "Blog",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/de/travel/";
-          },
-        },{id: "nav-rezepte",
-          title: "Rezepte",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/de/recipes/";
-          },
-        },{id: "nav-essays",
-          title: "Essays",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/de/essays/index.html";
+            window.location.href = "/de/blog/";
           },
         },{id: "nav-bücher",
           title: "Bücher",
