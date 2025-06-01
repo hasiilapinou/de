@@ -2,6 +2,6 @@
 layout: page
 title: Reisen
 permalink: /travel/
-nav: true
+nav: false
 nav_order: 3
 ---

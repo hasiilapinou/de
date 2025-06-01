@@ -2,6 +2,6 @@
 layout: page
 title: Rezepte
 permalink: /recipes/
-nav: true
+nav: false
 nav_order: 4
 ---
